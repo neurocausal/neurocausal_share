@@ -1,7 +1,7 @@
 ##### Disclaimer: this is a work in progress! Bear with us as we grow together :)
 
 
-# NeuroCausal
+# NeuroCausal: data sharing
 
 The code base of the data-sharing side of NeuroCausal. A platform for sharing of behavioral, neuropsychological, neurological, and neuroimaging data inspired by [NeuroVault](https://neurovault.org/).
 
